@@ -1,4 +1,4 @@
-👋 Olá!! Meu nome é Mateus Pessoa, atualmente trabalho com desenvolvimento front-end. 👋
+👋 Olá!! Meu nome é Mateus Pessoa, atualmente trabalho com desenvolvimento Full Stack. 👋
 
 <div align="center">
   <a href="https://github.com/mateuspessoa">
